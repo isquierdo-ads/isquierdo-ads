@@ -1,4 +1,4 @@
-## Bem Vindo, você é o [![Visits Badge(https://badges.pufler.dev/visits/isquierdo-ads/isquierdo-ads)](https://badges.pufler.dev) visitante :)
+## Bem Vindo!
  <div>
     <a href="https://github.com/isquierdo-ads">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isquierdo-ads&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -21,3 +21,6 @@
   <a href = "mailto:isquierdo.ads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernandoisquierdo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+ 
+ [![Visits Badge](https://badges.pufler.dev/visits/pardorafaela/pardorafaela)](https://badges.pufler.dev)
+
