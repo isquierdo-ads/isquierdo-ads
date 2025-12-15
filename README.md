@@ -1,4 +1,4 @@
-## Bem Vindo! [![Visits Badge](https://badges.pufler.dev/visits/isquierdo-ads/isquierdo-ads)](https://badges.pufler.dev)
+## Bem Vindo!
 
 <div style="display: inline-block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
